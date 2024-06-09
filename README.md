@@ -29,12 +29,12 @@ Weather App is a simple web application designed to provide users with real-time
 - WeatherAPI
 
 ## Credits
-- Weather icons courtesy of [WeatherAPI](https://www.weatherapi.com/)
+- Arnab Chakraborty
 
 ## Contributions
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or report bugs.
 
 ## Contact
-For any inquiries or feedback, please contact ankitojha1409@gmail.com.
+For any inquiries or feedback, please contact arnabchakraborty.sam@gmail.com
 
 Thank you for using the Weather App! We hope you find it useful and informative.
