@@ -29,7 +29,7 @@ Weather App is a simple web application designed to provide users with real-time
 - WeatherAPI
 
 ## Credits
-- Arnab Chakraborty
+- Developed by Arnab Chakraborty
 
 ## Contributions
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or report bugs.
